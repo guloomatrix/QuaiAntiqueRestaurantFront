@@ -23,7 +23,7 @@ jobs:
         server: ftp-delicegulo.alwaysdata.net
         username: delicegulo
         password: ${{ secrets.ftp_password }}
-        protocol: ftps
+        protocol: ftp
         port : 21
         server -dir: /www/
         exclude: |

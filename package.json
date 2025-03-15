@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "bootstrap": "5.3.3",
-    "bootstrap-icons": "1.11.3"
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
   },
   "name": "quaiantiquerestaurantfront",
   "version": "1.0.0",
@@ -15,6 +15,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "(https://github.com/ThomasBDC/QuaiAntiqueRestaurantFront.git)"
+    "url": ""
   }
 }
+
+
+
+ 
